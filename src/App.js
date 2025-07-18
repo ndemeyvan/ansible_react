@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Test project deploiement with ansible</h2>
         </div>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> site 2.
+          To get started, edit <code>src/App.js</code> site 3.
         </p>
       </div>
     );
